@@ -1,9 +1,9 @@
 /* Central de Variáveis - Facilita a manutenção e garante consistência */
 :root {
-    --verde-agrinho: #2ecc71;
-    --verde-escuro: #27ae60;
+    --verde-agrinho: #1C1C1C;
+    --verde-escuro: #FF0000;
     --amarelo-destaque: #f1c40f;
-    --cor-texto-escuro: #2d3436;
+    --cor-texto-escuro: #F0F8FF;
     --branco-puro: #ffffff;
     --sombra-suave: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
@@ -18,7 +18,7 @@
 body {
     font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     color: var(--cor-texto-escuro);
-    line-height: 1.6;
+    line-height: 1.0;
     background-color: var(--branco-puro);
     display: flex;
     flex-direction: column;
